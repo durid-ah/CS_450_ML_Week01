@@ -20,5 +20,4 @@ def read_data_set(file_name):
                 data_set.append(np.array(row[:-1]).astype(np.float))
                 target.append(target_to_number[row[-1]])
             count += 1
-        print(data_set)
         return data_set, target

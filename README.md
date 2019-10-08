@@ -11,5 +11,5 @@ Note: There is no input validation for the dimensions
 
 # Some more Machine Learning projects
 
-Data Preprocessing, Knn classifier and regressor: https://github.com/durid-ah/Data_Preprocessing  
-A simple Knn implementation: https://github.com/durid-ah/CS_450_Knn_Classifier \n
+* Data Preprocessing, Knn classifier and regressor: https://github.com/durid-ah/Data_Preprocessing  
+* A simple Knn implementation: https://github.com/durid-ah/CS_450_Knn_Classifier \n
